@@ -3,14 +3,13 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/87142332?v=4" width="100"/>
 
+<!--
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-    </a>
   </div>
+-->
 </div>
 
 ---
