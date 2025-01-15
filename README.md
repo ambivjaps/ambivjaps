@@ -1,7 +1,7 @@
 ## Ambiv / TIDE ⛵
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/ambivjaps/ambivjaps/refs/heads/main/tide_logo.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/ambivjaps/ambivjaps/refs/heads/main/tide_logo.png" width="100"/><br>
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
