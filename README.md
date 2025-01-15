@@ -9,7 +9,7 @@
     <a href="https://behance.net/japsivert">
       <img src="https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
     </a>
-</div>
+  </div>
 </div>
 
 ---
@@ -43,7 +43,7 @@ Henlow, werld! :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ambivjaps&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambivjaps&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
