@@ -7,7 +7,6 @@
     <a href="https://www.linkedin.com">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-
     <a href="https://behance.net/japsivert">
       <img src="https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
     </a>
