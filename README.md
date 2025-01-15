@@ -19,8 +19,8 @@
 ---
 
 ### 👨‍💻: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: Insert description here. - :seedling: Insert description here. - :zap: Insert description here. - :mailbox: Insert description here.
+Henlow, werld! I am a Full Stack Developer! :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+:telescope: Insert description here. - :seedling: Insert description here. - :zap: Insert description here. - :mailbox: Insert description here.
 
 ---
 
