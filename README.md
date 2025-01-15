@@ -19,9 +19,9 @@
 ---
 
 ### 👨‍💻: About Me :
-Henlow, werld! I am a Full Stack Developer! :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Henlow, werld! :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-:telescope: Freelance full stack developer - :seedling: Currently a part-time programming teacher to children. - :zap: Doing UI/Graphic Design in my spare time. - :mailbox: tideph.main@gmail.com
+:telescope: Freelance Full Stack Developer - :seedling: Educator :zap: UI/Graphic Designer - :mailbox: tideph.main@gmail.com
 
 ---
 
