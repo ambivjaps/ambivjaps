@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me:
 Henlow, werld! :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-:telescope: Freelance Full Stack Developer - :seedling: Educator :zap: UI/Graphic Designer - :mailbox: tideph.main@gmail.com
+:telescope: Freelance Full Stack Developer ● :seedling: Educator ● :zap: UI/Graphic Designer ● :mailbox: tideph.main@gmail.com
 
 ---
 
