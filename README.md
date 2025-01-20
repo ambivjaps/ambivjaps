@@ -2,14 +2,6 @@
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/ambivjaps/ambivjaps/refs/heads/main/tide_logo.png" width="150"/><br/><br/>
-  <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://behance.net/japsivert">
-      <img src="https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-    </a>
-  </div>
 </div>
 
 ---
