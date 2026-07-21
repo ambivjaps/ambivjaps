@@ -1,10 +1,4 @@
-## Ambiv / TIDE ⛵
-
-<div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/ambivjaps/ambivjaps/refs/heads/main/tide_logo.png" width="150"/><br/><br/>
-</div>
-
----
+## Ambiv
 
 ### 👨‍💻 About Me:
 Henlow, werld! :D <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
